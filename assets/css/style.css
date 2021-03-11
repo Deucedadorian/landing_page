@@ -26,6 +26,9 @@ h2 {
     margin-top: 50px;
 }
 
+h3 {
+    padding-top: 30px;
+}
 main {
     padding: 60px 0;
 }
@@ -106,7 +109,7 @@ textarea {
 }
 
 textarea {
-    vertical-align top;
+    vertical-align: top;
     height: 60px;
 }
 
